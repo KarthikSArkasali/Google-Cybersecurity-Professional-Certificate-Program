@@ -12,3 +12,16 @@ Hello, I am **Karthik S Arkasali**, a graduate with a strong passion for cyberse
 In addition to the certification, I have gained hands-on experience with Industry-standard tools and technologies that are essential for modern cybersecurity practices. **I am proficient in using tcpdump and Wireshark for in-depth network analysis and traffic monitoring, Google Chronicle and Splunk for robust Security Information & Event Management(SIEM) solutions to analyze and correlate security events, and Suricata for implementing and managing IDS/IPS systems to detect and prevent threats. Additionally, I leverage Python to automate repetitive tasks, streamline workflows, and build efficient solutions for enhancing security operations**. This combination of tools and skills allows me to effectively identify, analyze, and respond to security challenges in dynamic environments.
 
 By combining my technical skills with a solid understanding of **cybersecurity frameworks such as NIST**, I am well-equipped to tackle real-world security challenges. As a fresher, I am eager to apply my knowledge and tool proficiency to entry-level roles, contributing to organizational security and resilience. My dedication to continuous learning and passion for cybersecurity drive my commitment to safeguarding digital assets and building a secure digital future.
+
+# Google Cybersecurity Professional Certificate: Course Overview and Skills Acquired
+
+| Sl.No | Course Name | Description | Skills Earned |
+| :---  |    :---    |   :---     |      :---     |
+|Course-1 |  Foundations of Cybersecurity | This shows a this | CISSP, NIST |
+|Course-2 |  Play It Safe: Manage Security Risks | This shows a this | CISSP, NIST |
+|Course-3 |  Connect and Protect: Networks and Network Security | This shows a this | CISSP, NIST |
+|Course-4 |  Tools of the Trade: Linux and SQL | This shows a this | CISSP, NIST |
+|Course-5 |  Assets, Threats, and Vulnerabilities | This shows a this | CISSP, NIST |
+|Course-6 |  Sound the Alarm: Detection and Response | This shows a this | CISSP, NIST |
+|Course-7 |  Automate Cybersecurity Tasks with Python | This shows a this | CISSP, NIST |
+|Course-8 |  Put It to Work: Prepare for Cybersecurity Jobs | This shows a this | CISSP, NIST |
