@@ -15,7 +15,7 @@ By combining my technical skills with a solid understanding of **cybersecurity f
 
 # Google Cybersecurity Professional Certificate: Course Overview and Skills Acquired
 
-# Course-1 
+* **Course-1**
 
 | Serial Number     | Course Name  | Description  |        Skills Earned        |
 | :----             |    :----    |   :----     |      :----    |
