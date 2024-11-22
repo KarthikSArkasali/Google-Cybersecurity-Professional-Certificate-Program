@@ -1,7 +1,9 @@
 # Google Cybersecurity Professional Certificate Program
 The **Google Cybersecurity Professional Certificate** is a comprehensive program designed to equip learners with essential skills for entry-level cybersecurity roles. The course covers key areas such as **Incident Response, Threat Detection, Risk Assessment, Information Security and Security best practices**. Participants gain hands-on experience with **tools like Splunk, Wireshark, and Python, and learn frameworks such as the NIST Cybersecurity Framework and ISO 27001.**
 
-This Repository showcases my Reports, Research, and Practical implementations of the hands-on skills I gained throughout the program.
+![Coursera PDUGL4X2LY25 (All in one)_page-0001](https://github.com/user-attachments/assets/cbc91d34-0263-44a4-a87b-1442451773dd)
+
+**This Repository showcases my Reports, Research, and Practical implementations of the hands-on skills I gained throughout the program**.
 
 # Professional Statement 
 
