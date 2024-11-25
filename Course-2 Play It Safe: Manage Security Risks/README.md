@@ -40,6 +40,6 @@ A **vulnerability** is a weakness that can be exploited by a threat. Therefore, 
  * **Security logging and monitoring failures:** Insufficient logging and monitoring capabilities that result in attackers exploiting vulnerabilities without the organization knowing it
  * **Server-side request forgery:** Allows attackers to manipulate a server-side application into accessing and updating backend resources. It can also allow threat actors to steal data.
 
-# National Institute of Standards and Technology (NIST) Risk Management Framework or RMF
+# National Institute of Standards and Technology (NIST) Risk Management Framework (RMF)
 
 The **NIST Risk Management Framework (RMF)** is a structured process designed by the National Institute of Standards and Technology (NIST) to help organizations manage and mitigate risks associated with information systems. It provides a comprehensive, flexible, and repeatable approach for integrating security, privacy, and cyber supply chain risk management activities into the system development lifecycle. The RMF aligns with federal standards and supports compliance with laws like the Federal Information Security Modernization Act (FISMA).
