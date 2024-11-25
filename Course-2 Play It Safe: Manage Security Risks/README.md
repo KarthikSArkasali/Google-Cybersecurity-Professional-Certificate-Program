@@ -4,7 +4,7 @@ In the Foundations of Cybersecurity course, I have completed comprehensive train
 
 Additionally, I have explored the **Open Web Application Security Project (OWASP)** security principles and conducted security audits. I have hands-on experience with industry-leading **Security Information and Event Management (SIEM)** tools, including their use in real-world scenarios by entry-level security analysts to protect business operations. This includes utilizing SIEM dashboards for daily tasks and analyzing security events.
 
-I have also developed proficiency in the purposes and applications of playbooks, leveraging them to effectively respond to identified threats, risks, and vulnerabilities, demonstrating my capability in enhancing organizational security posture.
+I have also developed proficiency in the purposes and applications of **playbooks**, leveraging them to effectively respond to **identified threats**, **risks**, and **vulnerabilities**, demonstrating my capability in enhancing organizational security posture.
 
 ![Coursera PDUGL4X2LY25 (All in one)_page-0001](https://github.com/user-attachments/assets/e71d5c3e-82bf-45f4-9b4a-2acfe7c5f79d)
 
