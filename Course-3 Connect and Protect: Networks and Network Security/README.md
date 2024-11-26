@@ -168,9 +168,51 @@ Protocols like network control protocol (NCP), high-level data link control (HDL
 **Layer 1: Physical layer**
 As the name suggests, the physical layer corresponds to the physical hardware involved in network transmission. Hubs, modems, and the cables and wiring that connect them are all considered part of the physical layer. To travel across an ethernet or coaxial cable, a data packet needs to be translated into a stream of 0s and 1s. The stream of 0s and 1s are sent across the physical wiring and cables, received, and then passed on to higher levels of the OSI model.
 
+# Format of an IPv4 packet
+
+![IP-packet-header-and-data-final](https://github.com/user-attachments/assets/4a2eecd7-a41f-4d5b-8f63-09821b88138f)
+
+* An IPv4 header format is determined by the IPv4 protocol and includes the IP routing information that devices use to direct the packet. The size of the IPv4 header ranges from 20 to 60 bytes. The first 20 bytes are a fixed set of information containing data such as the source and destination IP address, header length, and total length of the packet. The last set of bytes can range from 0 to 40 and consists of the options field.
+
+* The length of the data section of an IPv4 packet can vary greatly in size. However, the maximum possible size of an IPv4 packet is 65,535 bytes. It contains the message being transferred over the internet, like website information or email text.
+
+![Pv4-packet-header-14-field](https://github.com/user-attachments/assets/f69d97fa-c922-43ad-8320-e2cee0cdc90b)
+
+There are 13 fields within the header of an IPv4 packet:
+
+* **Version (VER):** This 4 bit component tells receiving devices what protocol the packet is using. The packet used in the illustration above is an IPv4 packet.
+
+* **IP Header Length (HLEN or IHL):** HLEN is the packet’s header length. This value indicates where the packet header ends and the data segment begins. 
+
+* **Type of Service (ToS):** Routers prioritize packets for delivery to maintain quality of service on the network. The ToS field provides the router with this information.
+
+* **Total Length:** This field communicates the total length of the entire IP packet, including the header and data. The maximum size of an IPv4 packet is 65,535 bytes.
+
+* **Identification:** IPv4 packets can be up to 65, 535 bytes, but most networks have a smaller limit. In these cases, the packets are divided, or fragmented, into smaller IP packets. The identification field 
+  provides a unique identifier for all the fragments of the original IP packet so that they can be reassembled once they reach their destination.
+
+* **Flags:** This field provides the routing device with more information about whether the original packet has been fragmented and if there are more fragments in transit.
+
+* **Fragmentation Offset:** The fragment offset field tells routing devices where in the original packet the fragment belongs.
+
+* **Time to Live (TTL):** TTL prevents data packets from being forwarded by routers indefinitely. It contains a counter that is set by the source. The counter is decremented by one as it passes through each 
+  router along its path. When the TTL counter reaches zero, the router currently holding the packet will discard the packet and return an ICMP Time Exceeded error message to the sender. 
+
+* **Protocol:** The protocol field tells the receiving device which protocol will be used for the data portion of the packet.
+
+* **Header Checksum:** The header checksum field contains a checksum that can be used to detect corruption of the IP header in transit. Corrupted packets are discarded.
+
+* **Source IP Address:** The source IP address is the IPv4 address of the sending device.
+
+* **Destination IP Address:** The destination IP address is the IPv4 address of the destination device.
+
+* **Options:** The options field allows for security options to be applied to the packet if the HLEN value is greater than five. The field communicates these options to the routing devices.
+
 # Difference between IPv4 and IPv6
 
 As the internet grew, IPv4 addresses became insufficient, leading to IPv4 address exhaustion. To address this, IPv6 was developed, offering significantly more addresses and other improvements.
+
+<img width="1175" alt="IPv4-and-IPv6" src="https://github.com/user-attachments/assets/47e51efe-0d4d-4059-857d-3122bdb5a495">
 
 Key Differences Between IPv4 and IPv6
 Address Format:
@@ -181,3 +223,20 @@ Packet Header: IPv6 headers are simpler than IPv4, omitting fields like IHL and 
 
 Security and Efficiency: IPv6 offers better routing, prevents private address collisions, and supports end-to-end encryption more natively.
 
+# Network Address Translation (NAT)
+
+Network Address Translation (NAT) enables devices on a local network with private IP addresses to communicate with the public internet using a shared public IP address. A router replaces the private source IP address in outgoing messages with its public IP and reverses the process for incoming responses. NAT operates at the Internet and Transport layers of the TCP/IP model and requires specific configuration on routers or firewalls.
+
+**Dynamic Host Configuration Protocol (DHCP)**
+DHCP is an application layer protocol that automatically assigns IP addresses, DNS server addresses, and default gateway information to devices on a network. For example, when you connect your phone to a Wi-Fi network, DHCP assigns it an IP address. DHCP servers use UDP port 67, and clients use UDP port 68.
+
+Address Resolution Protocol (ARP)
+ARP resolves an IP address to a MAC address within a local network. For instance, when your computer sends data to a printer on the same network, ARP ensures the data reaches the correct hardware. Devices maintain an ARP cache for quick reference. ARP operates at the Network Access Layer and does not use port numbers.
+
+Telnet and Secure Shell (SSH)
+Telnet: A protocol to connect to remote systems via command-line. For example, a network admin might use Telnet to configure a switch. However, Telnet is insecure as it transmits data in plaintext over TCP port 23.
+SSH: A secure alternative to Telnet that encrypts communication, ideal for managing servers remotely. SSH uses TCP port 22.
+Email Protocols
+Post Office Protocol (POP): Downloads email to a device, often deleting it from the server. For example, using a POP3 email client downloads messages locally, restricting access to other devices. It uses TCP/UDP port 110 (unencrypted) and 995 (encrypted).
+Internet Message Access Protocol (IMAP): Keeps email on the server, allowing access from multiple devices (e.g., syncing email across a phone and laptop). It uses TCP port 143 (unencrypted) and 993 (encrypted).
+Simple Mail Transfer Protocol (SMTP): Sends and routes email. For example, sending an email from Gmail uses SMTP. It operates on TCP/UDP port 25 (unencrypted) and 587 (encrypted).
