@@ -32,6 +32,15 @@ Typically, firewalls are strategically placed between the secured, controlled in
 
 It is important to note, however, that firewalls are just one layer of defense within a broader cybersecurity framework. For comprehensive protection, they should be used in conjunction with other security measures, such as intrusion detection systems, encryption, and robust user authentication.
 
+There are two main categories of firewalls.
+
+* **Stateless:** A class of firewall that operates based on predefined rules and does not keep track of information from data packets
+
+* **Stateful:** A class of firewall that keeps track of information passing through it and proactively filters out threats. Unlike stateless firewalls, which require rules to be configured in two directions, a 
+                stateful firewall only requires a rule in one direction. This is because it uses a "state table" to track connections, so it can match return traffic to an existing session 
+
+**Next generation firewalls (NGFWs)** are the most technologically advanced firewall protection. They exceed the security offered by stateful firewalls because they include deep packet inspection (a kind of packet sniffing that examines data packets and takes actions if threats exist) and intrusion prevention features that detect security threats and notify firewall administrators. NGFWs can inspect traffic at the application layer of the TCP/IP model and are typically application aware. Unlike traditional firewalls that block traffic based on IP address and ports, NGFWs rules can be configured to block or allow traffic based on the application. Some NGFWs have additional features like Malware Sandboxing, Network Anti-Virus, and URL and DNS Filtering.  
+
 **Servers**
 
 **Servers** are essential components of a network, providing information and services to devices such as computers, smartphones, and smart home devices. These connected devices, referred to as clients, rely on servers to fulfill their requests. This interaction follows the client-server model, a widely used networking structure where clients send requests to servers, and servers process and respond to those requests.
@@ -217,26 +226,82 @@ As the internet grew, IPv4 addresses became insufficient, leading to IPv4 addres
 Key Differences Between IPv4 and IPv6
 Address Format:
 
-IPv4: Four decimal numbers (0–255) separated by periods (e.g., 198.51.100.0). Supports ~4.3 billion addresses.
-IPv6: Eight hexadecimal numbers (up to four digits each) separated by colons (e.g., 2002:0db8::ff21:0023:1234). Supports ~340 undecillion addresses.
-Packet Header: IPv6 headers are simpler than IPv4, omitting fields like IHL and Flags while adding the Flow Label field for improved routing efficiency.
-
-Security and Efficiency: IPv6 offers better routing, prevents private address collisions, and supports end-to-end encryption more natively.
+**IPv4:** Four decimal numbers (0–255) separated by periods (e.g., 198.51.100.0). Supports ~4.3 billion addresses.
+**IPv6:** Eight hexadecimal numbers (up to four digits each) separated by colons (e.g., 2002:0db8::ff21:0023:1234). Supports ~340 undecillion addresses.
+          Packet Header: IPv6 headers are simpler than IPv4, omitting fields like IHL and Flags while adding the Flow Label field for improved routing efficiency.
+**Security and Efficiency:** IPv6 offers better routing, prevents private address collisions, and supports end-to-end encryption more natively.
 
 # Network Address Translation (NAT)
 
 Network Address Translation (NAT) enables devices on a local network with private IP addresses to communicate with the public internet using a shared public IP address. A router replaces the private source IP address in outgoing messages with its public IP and reverses the process for incoming responses. NAT operates at the Internet and Transport layers of the TCP/IP model and requires specific configuration on routers or firewalls.
 
+|   Private IP Addresses    |  Public IP Addresses | 
+| :----                     |   :----              |
+|  Assigned by the router    |  Assigned by ISP and IANA  |
+|  Unique only within private network    |  Unique address in global internet |
+|  No cost to use    |  Costs to lease a public IP address  |
+|  Address ranges:    |  Assignable address ranges:   |
+|     * 10.0.0.0-10.255.255.255<br> * 172.16.0.0-172.31.255.255<br> * 192.168.0.0-192.168.255.255 |     * 1.0.0.0-9.255.255.255<br> * 11.0.0.0-126.255.255.255<br> * 128.0.0.0-172.15.255.255<br> * 192.169.0.0-233.255.255.255|  
+
 **Dynamic Host Configuration Protocol (DHCP)**
 DHCP is an application layer protocol that automatically assigns IP addresses, DNS server addresses, and default gateway information to devices on a network. For example, when you connect your phone to a Wi-Fi network, DHCP assigns it an IP address. DHCP servers use UDP port 67, and clients use UDP port 68.
 
-Address Resolution Protocol (ARP)
+**Address Resolution Protocol (ARP)**
 ARP resolves an IP address to a MAC address within a local network. For instance, when your computer sends data to a printer on the same network, ARP ensures the data reaches the correct hardware. Devices maintain an ARP cache for quick reference. ARP operates at the Network Access Layer and does not use port numbers.
 
-Telnet and Secure Shell (SSH)
-Telnet: A protocol to connect to remote systems via command-line. For example, a network admin might use Telnet to configure a switch. However, Telnet is insecure as it transmits data in plaintext over TCP port 23.
-SSH: A secure alternative to Telnet that encrypts communication, ideal for managing servers remotely. SSH uses TCP port 22.
-Email Protocols
-Post Office Protocol (POP): Downloads email to a device, often deleting it from the server. For example, using a POP3 email client downloads messages locally, restricting access to other devices. It uses TCP/UDP port 110 (unencrypted) and 995 (encrypted).
-Internet Message Access Protocol (IMAP): Keeps email on the server, allowing access from multiple devices (e.g., syncing email across a phone and laptop). It uses TCP port 143 (unencrypted) and 993 (encrypted).
-Simple Mail Transfer Protocol (SMTP): Sends and routes email. For example, sending an email from Gmail uses SMTP. It operates on TCP/UDP port 25 (unencrypted) and 587 (encrypted).
+**Telnet and Secure Shell (SSH)**
+* **Telnet:** A protocol to connect to remote systems via command-line. For example, a network admin might use Telnet to configure a switch. However, Telnet is insecure as it transmits data in plaintext over 
+              TCP port 23.
+* **SSH:** A secure alternative to Telnet that encrypts communication, ideal for managing servers remotely. SSH uses TCP port 22.
+  
+**Email Protocols**
+* **Post Office Protocol (POP):** Downloads email to a device, often deleting it from the server. For example, using a POP3 email client downloads messages locally, restricting access to other devices. It uses 
+                                  TCP/UDP port 110 (unencrypted) and 995 (encrypted).
+* **Internet Message Access Protocol (IMAP):** Keeps email on the server, allowing access from multiple devices (e.g., syncing email across a phone and laptop). It uses TCP port 143 (unencrypted) and 993 
+                                             (encrypted).
+* **Simple Mail Transfer Protocol (SMTP):** Sends and routes email. For example, sending an email from Gmail uses SMTP. It operates on TCP/UDP port 25 (unencrypted) and 587 (encrypted).
+
+**Internet Message Access Protocol (IMAP)**
+IMAP is used for incoming email. It downloads the headers of emails and the message content. The content also remains on the email server, which allows users to access their email from multiple devices. IMAP uses TCP port 143 for unencrypted email and TCP port 993 over the TLS protocol. Using IMAP allows users to partially read email before it is finished downloading. Since the mail is kept on the mail server, it allows a user to sync emails across multiple devices. 
+
+**Simple Mail Transfer Protocol**
+Simple Mail Transfer Protocol (SMTP) is used to transmit and route email from the sender to the recipient’s address. SMTP works with Message Transfer Agent (MTA) software, which searches DNS servers to resolve email addresses to IP addresses, to ensure emails reach their intended destination. SMTP uses TCP/UDP port 25 for unencrypted emails and TCP/UDP port 587 using TLS for encrypted emails. The TCP port 25 is often used by high-volume spam. SMTP helps to filter out spam by regulating how many emails a source can send at a time.
+
+**Protocols and port numbers**
+Remember that port numbers are used by network devices to determine what should be done with the information contained in each data packet once they reach their destination. Firewalls can filter out unwanted traffic based on port numbers. For example, an organization may configure a firewall to only allow access to TCP port 995 (POP3) by IP addresses belonging to the organization.
+
+As a security analyst, you will need to know about many of the protocols and port numbers mentioned in this course. They may be used to determine your technical knowledge in interviews, so it’s a good idea to memorize them. You will also learn about new protocols on the job in a security position.
+
+|   Protocols    |  Ports | 
+| :----                     |   :----              |
+| DHCP   |  UDP port 67 (servers)<br>UDP port 68 (clients) |
+|  ARP   |  none |
+|  Telnet    |  TCP port 23  |
+|  SSH  |  	TCP port 22   |
+|   POP3 |   TCP/UDP port 110 (unencrypted)<br> TCP/UDP port 995 (encrypted, SSL/TLS) |
+|   IMAP   |   TCP port 143 (unencrypted)<br> TCP port 993 (encrypted, SSL/TLS)  |
+|   SMTP    | TCP/UDP Port 25 (unencrypted)| 
+|     SMTPS      |    TCP/UDP port 587 (encrypted, TLS) |
+
+**Proxy servers**
+A proxy server is another way to add security to your private network. Proxy servers utilize network address translation (NAT) to serve as a barrier between clients on the network and external threats. Forward proxies handle queries from internal clients when they access resources external to the network. Reverse proxies function opposite of forward proxies; they handle requests from external systems to services on the internal network. Some proxy servers can also be configured with rules, like a firewall.  For example, you can create filters to block websites identified as containing malware.
+
+**Virtual Private Network**
+
+A VPN, or virtual private network, is a network security service that changes your public IP address and hides your virtual location so that you can keep your data private when you’re using a public network like the internet. VPNs provide a server that acts as a gateway between a computer and the internet. This server creates a path similar to a virtual tunnel that hides the computer’s IP address and encrypts the data in transit to the internet. The main purpose of a VPN is to create a secure connection between a computer and a network. Additionally, a VPN allows trusted connections to be established on non-trusted networks.
+
+* **Remote access** 
+Individual users use **Remote access** VPNs to establish a connection between a personal device and a VPN server. Remote access VPNs encrypt data sent or received through a personal device. The connection between the user and the remote access VPN is established through the internet.
+
+* **Site-to-site VPN**
+
+Enterprises use **Site-to-site** VPNs largely to extend their network to other networks and locations. This is particularly useful for organizations that have many offices across the globe. IPSec is commonly used in site-to-site VPNs to create an encrypted tunnel between the primary network and the remote network. One disadvantage of site-to-site VPNs is how complex they can be to configure and manage compared to remote VPNs.
+
+* **WireGuard VPN**
+WireGuard is a high-speed VPN protocol, with advanced encryption, to protect users when they are accessing the internet. It’s designed to be simple to set up and maintain. WireGuard can be used for both site-to-site connection and client-server connections. WireGuard is relatively newer than IPSec, and is used by many people due to the fact that its download speed is enhanced by using fewer lines of code. WireGuard is also open source, which makes it easier for users to deploy and debug. This protocol is useful for processes that require faster download speeds, such as streaming video content or downloading large files.
+
+* **IPSec VPN**
+IPSec is another VPN protocol that may be used to set up VPNs. Most VPN providers use IPSec to encrypt and authenticate data packets in order to establish secure, encrypted connections. Since IPSec is one of the earlier VPN protocols, many operating systems support IPSec from VPN providers.
+
+Although IPSec and WireGuard are both VPN protocols, IPSec is older and more complex than WireGuard. Some clients may prefer IPSec due to its longer history of use, extensive security testing, and widespread adoption. However, others may prefer WireGuard because of its potential for better performance and simpler configuration.
+
