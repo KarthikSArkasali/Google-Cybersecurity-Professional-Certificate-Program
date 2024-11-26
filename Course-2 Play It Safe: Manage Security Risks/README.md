@@ -248,9 +248,11 @@ Playbooks are also used with Security Orchestration, Automation, and Response (S
 
 By combining playbooks with SIEM and SOAR tools, organizations streamline threat detection, response, and resolution, improving efficiency and consistency in incident handling.
 
-# Portfolio #1
+# Portfolio 
 
 **Portfolio Activity:** Conduct a security audit
+
+**Part-1**
 
 In part one of this activity, I conducted an internal security audit, which I can now include in my cybersecurity portfolio
 
@@ -266,12 +268,31 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 **Provided Supporting Documents**
 
-* [Botium Toys Scope goals and risk assessment Report.docx](https://github.com/user-attachments/files/17918260/Botium.Toys.Scope.goals.and.risk.assessment.Report.docx)
-* [Control-categories.docx](https://github.com/user-attachments/files/17918185/Control-categories.docx)
-* [Controls-and-compliance-checklist.docx](https://github.com/user-attachments/files/17918188/Controls-and-compliance-checklist.docx) 
+* [Portfolio (Part-1) Botium Toys Scope Goals and Risk Assessment Report.pdf](https://github.com/user-attachments/files/17918467/Portfolio.Part-1.Botium.Toys.Scope.Goals.and.Risk.Assessment.Report.pdf)
+* [Portfolio (Part-1) Control Categories.pdf](https://github.com/user-attachments/files/17918470/Portfolio.Part-1.Control.Categories.pdf)
+* [Portfolio (Part-1) Controls and compliance checklist.pdf](https://github.com/user-attachments/files/17918471/Portfolio.Part-1.Controls.and.compliance.checklist.pdf)
 
 **Audit Evidence Documentation**
 
 * [Controls Assessment Exemplar.pdf](https://github.com/user-attachments/files/17918373/Controls.Assessment.Exemplar.pdf)
 * [Compliance Checklist Exemplar.pdf](https://github.com/user-attachments/files/17918378/Compliance.Checklist.Exemplar.pdf)
+
+**Part-2**
+
+**Scenario**
+
+Review the following scenario. Then complete the step-by-step instructions.
+
+Botium Toys’ IT manager asked you to conduct an internal audit of the company’s assets, controls, and adherence to compliance regulations and standards. Then, based on the company’s current goals and level of risk, she requested that you complete a controls assessment and compliance checklist to identify and explain ways that the company can improve its security posture. 
+
+Your task is to clearly and concisely communicate your findings and recommendations to the IT manager and other stakeholders, so they can implement the necessary controls and create appropriate documentation, processes, and procedures to ensure business continuity, the safety of critical assets, and compliance.
+
+**Provided Supporting Documents**
+
+* [Portfolio (Part-2) Botium Toys Audit scope and goals.pdf](https://github.com/user-attachments/files/17918641/Portfolio.Part-2.Botium.Toys.Audit.scope.and.goals.pdf)
+* [Portfolio (Part-2) Stakeholder memorandum.pdf](https://github.com/user-attachments/files/17918644/Portfolio.Part-2.Stakeholder.memorandum.pdf)
+
+**Audit Evidence Documentation**
+
+* [Stakeholder memorandum exemplar.pdf](https://github.com/user-attachments/files/17918649/Stakeholder.memorandum.exemplar.pdf)
 
