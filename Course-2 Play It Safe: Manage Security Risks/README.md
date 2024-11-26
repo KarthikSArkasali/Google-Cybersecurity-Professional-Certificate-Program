@@ -268,14 +268,15 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 **Provided Supporting Documents**
 
-* [Portfolio (Part-1) Botium Toys Scope Goals and Risk Assessment Report.pdf](https://github.com/user-attachments/files/17918467/Portfolio.Part-1.Botium.Toys.Scope.Goals.and.Risk.Assessment.Report.pdf)
-* [Portfolio (Part-1) Control Categories.pdf](https://github.com/user-attachments/files/17918470/Portfolio.Part-1.Control.Categories.pdf)
-* [Portfolio (Part-1) Controls and compliance checklist.pdf](https://github.com/user-attachments/files/17918471/Portfolio.Part-1.Controls.and.compliance.checklist.pdf)
+* [Portfolio (Part-1) Botium Toys Scope Goals and Risk Assessment Report (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918781/Portfolio.Part-1.Botium.Toys.Scope.Goals.and.Risk.Assessment.Report.Provided.Supporting.Documents.pdf)
+* [Portfolio (Part-1) Control Categories (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918783/Portfolio.Part-1.Control.Categories.Provided.Supporting.Documents.pdf)
+* [Portfolio (Part-1) Controls and compliance checklist (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918784/Portfolio.Part-1.Controls.and.compliance.checklist.Provided.Supporting.Documents.pdf)
+
 
 **Audit Evidence Documentation**
 
-* [Controls Assessment Exemplar.pdf](https://github.com/user-attachments/files/17918373/Controls.Assessment.Exemplar.pdf)
-* [Compliance Checklist Exemplar.pdf](https://github.com/user-attachments/files/17918378/Compliance.Checklist.Exemplar.pdf)
+* [Portfolio (Part-1) Controls Assessment Exemplar (Audit Evidence Documentation).pdf](https://github.com/user-attachments/files/17918755/Portfolio.Part-1.Controls.Assessment.Exemplar.Audit.Evidence.Documentation.pdf)
+* [Portfolio (Part-1) Compliance Checklist Exemplar (Audit Evidence Documentation).pdf](https://github.com/user-attachments/files/17918756/Portfolio.Part-1.Compliance.Checklist.Exemplar.Audit.Evidence.Documentation.pdf)
 
 **Part-2**
 
@@ -289,10 +290,11 @@ Your task is to clearly and concisely communicate your findings and recommendati
 
 **Provided Supporting Documents**
 
-* [Portfolio (Part-2) Botium Toys Audit scope and goals.pdf](https://github.com/user-attachments/files/17918641/Portfolio.Part-2.Botium.Toys.Audit.scope.and.goals.pdf)
-* [Portfolio (Part-2) Stakeholder memorandum.pdf](https://github.com/user-attachments/files/17918644/Portfolio.Part-2.Stakeholder.memorandum.pdf)
+* [Portfolio (Part-2) Botium Toys Audit scope and goals (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918788/Portfolio.Part-2.Botium.Toys.Audit.scope.and.goals.Provided.Supporting.Documents.pdf)
+* [Portfolio (Part-2) Stakeholder memorandum (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918789/Portfolio.Part-2.Stakeholder.memorandum.Provided.Supporting.Documents.pdf)
+
 
 **Audit Evidence Documentation**
 
-* [Stakeholder memorandum exemplar.pdf](https://github.com/user-attachments/files/17918649/Stakeholder.memorandum.exemplar.pdf)
+* [Portfolio (Part-2) Stakeholder memorandum exemplar (Audit Evidence Documentation).pdf](https://github.com/user-attachments/files/17918742/Portfolio.Part-2.Stakeholder.memorandum.exemplar.Audit.Evidence.Documentation.pdf)
 
