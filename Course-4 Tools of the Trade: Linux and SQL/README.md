@@ -119,7 +119,7 @@ The **Instructions for including SQL queries** document provides instructions an
 
 The **Table formats** document describes how the tables used for this portfolio activity are organized.
 
-**Link to template:** [Portfolio (Part-2) Instructions for including SQL queries.pdf](https://github.com/user-attachments/files/17929729/Portfolio.Part 2.Instructions.for.including.SQL.queries.pdf)
+**Link to template:** [Portfolio (Part-2) Instructions for including SQL queries.pdf](https://github.com/user-attachments/files/17929901/Portfolio.Part-2.Instructions.for.including.SQL.queries.pdf)
 
 **Link to template:** [Portfolio (Part-2) Table formats.pdf](https://github.com/user-attachments/files/17929731/Portfolio.Part-2.Table.formats.pdf)
 
