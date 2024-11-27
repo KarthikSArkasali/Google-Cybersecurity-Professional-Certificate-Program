@@ -27,10 +27,10 @@ You are a security professional working at a health care company. As part of you
 
 Your task is to create an algorithm that uses Python code to check whether the allow list contains any IP addresses identified on the remove list. If so, you should remove those IP addresses from the file containing the allow list.
 
-**Link to template:** [Portfolio (Part-1) Algorithm for file update in python.pdf](https://github.com/user-attachments/files/17931418/Portfolio.Part-1.Algorithm.for.file.update.in.python.pdf)
+ * **Link to template:** [Portfolio (Part-1) Algorithm for file update in python.pdf](https://github.com/user-attachments/files/17931418/Portfolio.Part-1.Algorithm.for.file.update.in.python.pdf)
 
-**Link to template:** [Portfoli (Part-1) instructions for including Python.pdf](https://github.com/user-attachments/files/17931428/Portfoli.Part-1.instructions.for.including.Python.pdf)
+ * **Link to template:** [Portfoli (Part-1) instructions for including Python.pdf](https://github.com/user-attachments/files/17931428/Portfoli.Part-1.instructions.for.including.Python.pdf)
 
 **Here is a completed activity**
 
-**Link to template:** [Portfolio (Part-1) Update a file through a Python algorithm.pdf](https://github.com/user-attachments/files/17931448/Portfolio.Part-1.Update.a.file.through.a.Python.algorithm.pdf)
+ * **Link to template:** [Portfolio (Part-1) Update a file through a Python algorithm.pdf](https://github.com/user-attachments/files/17931448/Portfolio.Part-1.Update.a.file.through.a.Python.algorithm.pdf)
