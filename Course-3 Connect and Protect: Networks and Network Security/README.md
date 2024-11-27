@@ -8,7 +8,7 @@ Moreover, I developed proficiency in **network hardening practices**, which stre
 
 ![Course 6 Sound the Alarm Detection   Response Certificate (AA6F5MGM4PZB)_page-0001](https://github.com/user-attachments/assets/86cfd9ca-24d0-46d8-9878-43462b3cccb3)
 
-# Portfolio #1
+# Portfolio Activity #1: Analyze network layer communication
 
 **Activity Overview**
 
@@ -51,17 +51,17 @@ In the DNS and ICMP log, you find the following information:
 
 * **Provided Supporting Documents**
 
-**Link to template:** [Portfolio (Part-1) Cybersecurity incident report network traffic analysis.pdf](https://github.com/user-attachments/files/17922171/Portfolio.Part-1.Cybersecurity.incident.report.network.traffic.analysis.pdf)
+    * **Link to template:** [Portfolio (Part-1) Cybersecurity incident report network traffic analysis.pdf](https://github.com/user-attachments/files/17922171/Portfolio.Part-1.Cybersecurity.incident.report.network.traffic.analysis.pdf)
 
-**Link to template:** [Portfolio (Part-1) Example of a Cybersecurity Incident Report.pdf](https://github.com/user-attachments/files/17922172/Portfolio.Part-1.Example.of.a.Cybersecurity.Incident.Report.pdf)
+    * **Link to template:** [Portfolio (Part-1) Example of a Cybersecurity Incident Report.pdf](https://github.com/user-attachments/files/17922172/Portfolio.Part-1.Example.of.a.Cybersecurity.Incident.Report.pdf)
 
 * **Audit Evidence Documentation**
 
-**Link to template:** [Portfolio (Part-1) Cybersecurity incident report exemplar network traffic analysis.pdf](https://github.com/user-attachments/files/17922175/Portfolio.Part-1.Cybersecurity.incident.report.exemplar.network.traffic.analysis.pdf)
+    * **Link to template:** [Portfolio (Part-1) Cybersecurity incident report exemplar network traffic analysis.pdf](https://github.com/user-attachments/files/17922175/Portfolio.Part-1.Cybersecurity.incident.report.exemplar.network.traffic.analysis.pdf)
 
-**Link to template:** [Portfolio (Part-1) Example of a Cybersecurity Incident Report.pdf](https://github.com/user-attachments/files/17922177/Portfolio.Part-1.Example.of.a.Cybersecurity.Incident.Report.pdf)
+    * **Link to template:** [Portfolio (Part-1) Example of a Cybersecurity Incident Report.pdf](https://github.com/user-attachments/files/17922177/Portfolio.Part-1.Example.of.a.Cybersecurity.Incident.Report.pdf)
 
-**Part-2: Analyze network attacks**
+# Portfolio Activity #2: Analyze network attacks
 
 **Scenario**
 
@@ -77,16 +77,16 @@ You take the server offline temporarily so that the machine can recover and retu
 
 * **Provided Supporting Documents**
 
-**Link to template:** [Portfolio (Part-1) Cybersecurity incident report.pdf](https://github.com/user-attachments/files/17922178/Portfolio.Part-1.Cybersecurity.incident.report.pdf)
+    * **Link to template:** [Portfolio (Part-1) Cybersecurity incident report.pdf](https://github.com/user-attachments/files/17922178/Portfolio.Part-1.Cybersecurity.incident.report.pdf)
 
-**Link to template:**[Portfolio (Part-1) How to read a Wireshark TCP_HTTP log.pdf](https://github.com/user-attachments/files/17922182/Portfolio.Part- 
+    * **Link to template:**[Portfolio (Part-1) How to read a Wireshark TCP_HTTP log.pdf](https://github.com/user-attachments/files/17922182/Portfolio.Part- 
 1.How.to.read.a.Wireshark.TCP_HTTP.log.pdf)
 
 * **Audit Evidence Documentation**
 
-**Link to template:** [Portfolio (Part-1) Cybersecurity incident report exemplar.pdf](https://github.com/user-attachments/files/17922184/Portfolio.Part-1.Cybersecurity.incident.report.exemplar.pdf)
+    * **Link to template:** [Portfolio (Part-1) Cybersecurity incident report exemplar.pdf](https://github.com/user-attachments/files/17922184/Portfolio.Part-1.Cybersecurity.incident.report.exemplar.pdf)
 
-# Portfolio #2
+# Portfolio Activity #3: Apply OS hardening techniques
 
 **Part-1: Apply OS hardening techniques**
 
@@ -130,19 +130,19 @@ Your job is to document the incident in detail, including identifying the networ
 
 * **Provided Supporting Documents**
 
-**Link to template:** [Security incident report template.pdf](https://github.com/user-attachments/files/17922288/Security.incident.report.template.pdf)
+   * **Link to template:** [Security incident report template.pdf](https://github.com/user-attachments/files/17922288/Security.incident.report.template.pdf)
 
-**Link to template:**[DNS HTTP traffic log.pdf](https://github.com/user-attachments/files/17922291/DNS.HTTP.traffic.log.pdf)
+   * **Link to template:**[DNS HTTP traffic log.pdf](https://github.com/user-attachments/files/17922291/DNS.HTTP.traffic.log.pdf)
 
-**Link to template:**[How to read the DNS HTTP traffic log.pdf](https://github.com/user-attachments/files/17922293/How.to.read.the.DNS.HTTP.traffic.log.pdf)
+   * **Link to template:**[How to read the DNS HTTP traffic log.pdf](https://github.com/user-attachments/files/17922293/How.to.read.the.DNS.HTTP.traffic.log.pdf)
 
 * **Audit Evidence Documentation**
 
-**Link to template:**[Security incident report exemplar.pdf](https://github.com/user-attachments/files/17922308/Security.incident.report.exemplar.pdf)
+   * **Link to template:**[Security incident report exemplar.pdf](https://github.com/user-attachments/files/17922308/Security.incident.report.exemplar.pdf)
 
-**Link to template:**[The Exemplar Explained Security incident.pdf](https://github.com/user-attachments/files/17922311/The.Exemplar.Explained.Security.incident.pdf)
+   * **Link to template:**[The Exemplar Explained Security incident.pdf](https://github.com/user-attachments/files/17922311/The.Exemplar.Explained.Security.incident.pdf)
 
-**Part-2: Analysis of network hardening**
+# Portfolio Activity #4: Analysis of network hardening
 
 **Activity Overview**
 
@@ -167,17 +167,17 @@ If no action is taken to address these vulnerabilities, the organization is at r
 
 * **Provided Supporting Documents**
 
-**Link to template:** [Portfolio (Part-2) Security risk assessment report.pdf](https://github.com/user-attachments/files/17922776/Portfolio.Part-2.Security.risk.assessment.report.pdf)
+    * **Link to template:** [Portfolio (Part-2) Security risk assessment report.pdf](https://github.com/user-attachments/files/17922776/Portfolio.Part-2.Security.risk.assessment.report.pdf)
 
-**Link to template:** [Network-hardening-tools.xlsx](https://github.com/user-attachments/files/17922778/Network-hardening-tools.xlsx)
+    * **Link to template:** [Network-hardening-tools.xlsx](https://github.com/user-attachments/files/17922778/Network-hardening-tools.xlsx)
 
 * **Audit Evidence Documentation**
 
-**Link to template:**[Portfolio (Part-2) Security risk assessment report exemplar.pdf](https://github.com/user-attachments/files/17922780/Portfolio.Part-2.Security.risk.assessment.report.exemplar.pdf)
+    * **Link to template:** [Portfolio (Part-2) Security risk assessment report exemplar.pdf](https://github.com/user-attachments/files/17922780/Portfolio.Part-2.Security.risk.assessment.report.exemplar.pdf)
 
-**Link to template:** [Security-risk-assessment-report-exemplar.docx](https://github.com/user-attachments/files/17922781/Security-risk-assessment-report-exemplar.docx)
+    * **Link to template:** [Security-risk-assessment-report-exemplar.docx](https://github.com/user-attachments/files/17922781/Security-risk-assessment-report-exemplar.docx)
 
-**Part-3: Use the NIST Cybersecurity Framework to respond to a security incident**
+# Portfolio Activity #5: Use the NIST Cybersecurity Framework to respond to a security incident
 
 **Activity Overview**
 
@@ -214,12 +214,12 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 
 * **Provided Supporting Documents**
 
-**Link to template:** [Portfolio (Part-3) Incident Report Analysis.pdf](https://github.com/user-attachments/files/17922590/Portfolio.Part-3.Incident.Report.Analysis.pdf)
+   * **Link to template:** [Portfolio (Part-3) Incident Report Analysis.pdf](https://github.com/user-attachments/files/17922590/Portfolio.Part-3.Incident.Report.Analysis.pdf)
 
-**Link to template:** [Portfolio (Part-3) Applying the NIST CSF.pdf](https://github.com/user-attachments/files/17922591/Portfolio.Part-3.Applying.the.NIST.CSF.pdf)
+   * **Link to template:** [Portfolio (Part-3) Applying the NIST CSF.pdf](https://github.com/user-attachments/files/17922591/Portfolio.Part-3.Applying.the.NIST.CSF.pdf)
 
-**Link to template:** [Portfolio (Part-3) Example of an Incident Report Analysis.pdf](https://github.com/user-attachments/files/17922595/Portfolio.Part-3.Example.of.an.Incident.Report.Analysis.pdf)
+   * **Link to template:** [Portfolio (Part-3) Example of an Incident Report Analysis.pdf](https://github.com/user-attachments/files/17922595/Portfolio.Part-3.Example.of.an.Incident.Report.Analysis.pdf)
 
 * **Audit Evidence Documentation**
 
-**Link to template:**[Portfolio (Part-3) Incident Response Analysis.pdf](https://github.com/user-attachments/files/17922462/Portfolio.Part-3.Incident.Response.Analysis.pdf)
+   * **Link to template:**[Portfolio (Part-3) Incident Response Analysis.pdf](https://github.com/user-attachments/files/17922462/Portfolio.Part-3.Incident.Response.Analysis.pdf)
