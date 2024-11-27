@@ -28,7 +28,7 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 Your task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist. 
 
-**Provided Supporting Documents**
+* **Provided Supporting Documents**
 
 **Link to template:** [Portfolio (Part-1) Botium Toys Scope Goals and Risk Assessment Report (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918781/Portfolio.Part-1.Botium.Toys.Scope.Goals.and.Risk.Assessment.Report.Provided.Supporting.Documents.pdf)
 
@@ -37,7 +37,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 **Link to template:** [Portfolio (Part-1) Controls and compliance checklist (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918784/Portfolio.Part-1.Controls.and.compliance.checklist.Provided.Supporting.Documents.pdf)
 
 
-**Audit Evidence Documentation**
+* **Audit Evidence Documentation**
 
 **Link to template:** [Portfolio (Part-1) Controls Assessment Exemplar (Audit Evidence Documentation).pdf](https://github.com/user-attachments/files/17918755/Portfolio.Part-1.Controls.Assessment.Exemplar.Audit.Evidence.Documentation.pdf)
 
@@ -53,13 +53,13 @@ Botium Toys’ IT manager asked you to conduct an internal audit of the company�
 
 Your task is to clearly and concisely communicate your findings and recommendations to the IT manager and other stakeholders, so they can implement the necessary controls and create appropriate documentation, processes, and procedures to ensure business continuity, the safety of critical assets, and compliance.
 
-**Provided Supporting Documents**
+* **Provided Supporting Documents**
 
 **Link to template:** [Portfolio (Part-2) Botium Toys Audit scope and goals (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918788/Portfolio.Part-2.Botium.Toys.Audit.scope.and.goals.Provided.Supporting.Documents.pdf)
 **Link to template:** [Portfolio (Part-2) Stakeholder memorandum (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918789/Portfolio.Part-2.Stakeholder.memorandum.Provided.Supporting.Documents.pdf)
 
 
-**Audit Evidence Documentation**
+* **Audit Evidence Documentation**
 
 **Link to template:** [Portfolio (Part-2) Stakeholder memorandum exemplar (Audit Evidence Documentation).pdf](https://github.com/user-attachments/files/17918742/Portfolio.Part-2.Stakeholder.memorandum.exemplar.Audit.Evidence.Documentation.pdf)
 
