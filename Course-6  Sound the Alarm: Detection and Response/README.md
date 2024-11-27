@@ -32,11 +32,13 @@ The attackers were able to gain access into the company's network by using targe
 
 Once the attackers gained access, they deployed their ransomware, which encrypted critical files. The company was unable to access critical patient data, causing major disruptions in their business operations. The company was forced to shut down their computer systems and contact several organizations to report the incident and receive technical assistance.
 
-**Link to template:** [Part-1 Incident Handler's journal.pdf](https://github.com/user-attachments/files/17932500/Part-1.Incident.Handler.s.journal.pdf)
+* **Provided Supporting Documents**
 
-**Here is a completed activity.** 
+    * **Link to template:** [Part-1 Incident Handler's journal.pdf](https://github.com/user-attachments/files/17932500/Part-1.Incident.Handler.s.journal.pdf)
 
-**Link to template:** [Part-1 Incident handler s journal entry.pdf](https://github.com/user-attachments/files/17932526/Part-1.Incident.handler.s.journal.entry.pdf)
+* **Here is a completed activity.** 
+
+    * **Link to template:** [Part-1 Incident handler s journal entry.pdf](https://github.com/user-attachments/files/17932526/Part-1.Incident.handler.s.journal.entry.pdf)
 
 # Activity #1: Research network protocol analyzers
 
@@ -52,11 +54,13 @@ Review the following scenario. Then complete the step-by-step instructions.
 
 In your role as a cybersecurity analyst, you have been asked to research the differences and similarities between Wireshark and tcpdump and create a chart that outlines your findings. 
 
-**Link to template:** [Diagram-template.pptx](https://github.com/user-attachments/files/17932642/Diagram-template.pptx)
+* **Provided Supporting Documents**
 
-**Here is a completed activity.** 
+    * **Link to template:** [Diagram-template.pptx](https://github.com/user-attachments/files/17932642/Diagram-template.pptx)
 
-**Link to template:** [Diagram-exemplar.pptx](https://github.com/user-attachments/files/17932646/Diagram-exemplar.pptx)
+* **Here is a completed activity.** 
+
+    * **Link to template:** [Diagram-exemplar.pptx](https://github.com/user-attachments/files/17932646/Diagram-exemplar.pptx)
 
 # Activity #2: Investigate a suspicious file hash
 
@@ -80,11 +84,13 @@ You retrieve the malicious file and create a SHA256 hash of the file. You might 
 
 Now that you have the file hash, you will use VirusTotal to uncover additional IoCs that are associated with the file.
 
-**Link to template:** [Pyramid of Pain.pptx](https://github.com/user-attachments/files/17932849/Pyramid.of.Pain.pptx)
+* **Provided Supporting Documents**
 
-* Here is a completed activity. 
+    * **Link to template:** [Pyramid of Pain.pptx](https://github.com/user-attachments/files/17932849/Pyramid.of.Pain.pptx)
 
-**Link to template:** [Investigation-findings.pptx](https://github.com/user-attachments/files/17932880/Investigation-findings.pptx)
+* **Here is a completed activity.** 
+
+    * **Link to template:** [Investigation-findings.pptx](https://github.com/user-attachments/files/17932880/Investigation-findings.pptx)
 
 # Activity #2: Use a playbook to respond to a phishing incident
 
@@ -105,15 +111,17 @@ Your organization's security policies and procedures describe how to respond to 
 
 In the playbook, there is a flowchart and written instructions to help you complete your investigation and resolve the alert. At the end of your investigation, you will update the alert ticket with your findings about the incident.
 
-**Link to template:** [Part-3 Alert ticket.pdf](https://github.com/user-attachments/files/17932966/Part-3.Alert.ticket.pdf)
+* **Provided Supporting Documents**
+  
+    * **Link to template:** [Part-3 Alert ticket.pdf](https://github.com/user-attachments/files/17932966/Part-3.Alert.ticket.pdf)
 
-**Link to template:** [Part-3 Phishing incident response playbook.pdf](https://github.com/user-attachments/files/17932971/Part-3.Phishing.incident.response.playbook.pdf)
+    * **Link to template:** [Part-3 Phishing incident response playbook.pdf](https://github.com/user-attachments/files/17932971/Part-3.Phishing.incident.response.playbook.pdf)
 
-**Here is a completed activity.** 
+* **Here is a completed activity.** 
 
-**Link to template:** [Part-3 Completed alert ticket.pdf](https://github.com/user-attachments/files/17932975/Part-3.Completed.alert.ticket.pdf)
+    * **Link to template:** [Part-3 Completed alert ticket.pdf](https://github.com/user-attachments/files/17932975/Part-3.Completed.alert.ticket.pdf)
 
-**Link to template:** [Part-3 Final report.pdf](https://github.com/user-attachments/files/17933038/Part-3.Final.report.pdf)
+    * **Link to template:** [Part-3 Final report.pdf](https://github.com/user-attachments/files/17933038/Part-3.Final.report.pdf)
 
 # # Portfolio Activity #2: Finalize your incident handler's journal
 
@@ -124,8 +132,10 @@ In this activity, you will finalize the incident handler's journal that you've b
 You may recall that in a previous activity at the introduction of this course, you completed your first entry in your incident handler's journal. As you progressed through this course, you used your incident handler’s journal to apply your documentation skills and keep track of your learning journey. By now, you might have multiple entries in your journal. These entries would be valuable to add to your portfolio. To review the importance of building a professional portfolio and options for creating your portfolio, read 
 Create your cybersecurity portfolio.
 
-**Link to template:** [Part-3 Incident handler-s journal.pdf](https://github.com/user-attachments/files/17933221/Part-3.Incident.handler-s.journal.pdf)
+* **Provided Supporting Documents**
+  
+    * **Link to template:** [Part-3 Incident handler-s journal.pdf](https://github.com/user-attachments/files/17933221/Part-3.Incident.handler-s.journal.pdf)
 
-**Here is a completed activity.** 
+* **Here is a completed activity.** 
 
-**Link to template:** [Part- 4 Completed incident handler-s journal.pdf](https://github.com/user-attachments/files/17933226/Part-.4.Completed.incident.handler-s.journal.pdf)
+    * **Link to template:** [Part- 4 Completed incident handler-s journal.pdf](https://github.com/user-attachments/files/17933226/Part-.4.Completed.incident.handler-s.journal.pdf)
