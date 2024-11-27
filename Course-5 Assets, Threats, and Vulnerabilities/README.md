@@ -30,7 +30,7 @@ Your supervisor asks you to evaluate a set of risks that the cybersecurity team 
 
 **Link to template:** [Portfolio (Part-1) Risk register.pdf](https://github.com/user-attachments/files/17930429/Portfolio.Part-1.Risk.register.pdf)
 
-**Here is a completed Activity.**
+**Here is a completed Activity: Score risks based on their likelihood and severity**
 
 **Link to exemplar:** [Portfolio (Part-1) Risk register exemplar.pdf](https://github.com/user-attachments/files/17930522/Portfolio.Part-1.Risk.register.exemplar.pdf)
 
@@ -67,17 +67,9 @@ To do this, you will start by identifying three devices that have access to your
 
 Then, you’ll list important characteristics of each device such as its owner, location, and type. Finally, you will assign each device a level of sensitivity based on how important it is to protect.
 
-* **Step-By-Step Instructions**
-
-Follow the instructions and answer the end-of-activity question to complete the activity. Then, go to the next course item to compare your work to a completed exemplar.
-
-* **Step 1: Access the template**
-
-To use the template for this course item, click the link below and select Use Template. 
-
 * **Link to template:** [Portfolio (Part-2) Home asset inventory.xlsx](https://github.com/user-attachments/files/17930590/Portfolio.Part-2.Home.asset.inventory.xlsx)
 
-**Here is a completed Activity.**  
+**Here is a completed Activity: Classify the assets connected to a home network**  
 
 **Link to template:** [Portfolio (Part-2) Home asset inventory.xlsx](https://github.com/user-attachments/files/17930637/Portfolio.Part-2.Home.asset.inventory.xlsx)
 
@@ -162,7 +154,7 @@ A vulnerability assessment of the situation can help you communicate the potenti
 
 **Link to template:** [NIST-SP-800-30.pdf](https://github.com/user-attachments/files/17930938/NIST-SP-800-30.pdf)
 
-**Here is a completed activity.**
+**Here is a completed activity: Analyze a vulnerable system for a small business**
 
 **Link to template:** [Portfolio (Part-5) Vulnerability assessment report ex.pdf](https://github.com/user-attachments/files/17930961/Portfolio.Part-5.Vulnerability.assessment.report.ex.pdf)
 
@@ -184,7 +176,7 @@ You bring the USB drive back to your office where the team has virtualization so
 
 **Link to template:** [Portfolio (Part-6) Parking lot USB exercise.pdf](https://github.com/user-attachments/files/17931095/Portfolio.Part-6.Parking.lot.USB.exercise.pdf)
 
-**Here is a completed activity.**
+**Here is a completed activity: Identify the attack vectors of a USB drive**
 
 **Link to template:** [Portfolio (Part-6) Parking lot USB.pdf](https://github.com/user-attachments/files/17931098/Portfolio.Part-6.Parking.lot.USB.pdf)
 
@@ -210,7 +202,7 @@ You are performing a threat model of the application using the PASTA framework. 
 
 **Link to template:** [PASTA attack tree.pptx](https://github.com/user-attachments/files/17931201/PASTA.attack.tree.pptx)
 
-**Here is a completed activity.**
+**Here is a completed activity: Apply the PASTA threat model framework**
 
 **Link to template:** [PASTA worksheet.pdf](https://github.com/user-attachments/files/17931202/PASTA.worksheet.pdf)
 
