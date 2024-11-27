@@ -349,7 +349,55 @@ A vulnerability assessment of the situation can help you communicate the potenti
 
 **Link to template:** [NIST-SP-800-30.pdf](https://github.com/user-attachments/files/17930938/NIST-SP-800-30.pdf)
 
-Here is a completed activity.
+**Here is a completed activity.**
 
 **Link to template:** [Portfolio (Part-5) Vulnerability assessment report ex.pdf](https://github.com/user-attachments/files/17930961/Portfolio.Part-5.Vulnerability.assessment.report.ex.pdf)
+
+# Activity #4: Identify the attack vectors of a USB drive
+
+**Activity Overview**
+
+In this activity, you will assess the attack vectors of a USB drive. You will consider a scenario of finding a USB drive in a parking lot from both the perspective of an attacker and a target.
+
+USBs, or flash drives, are commonly used for storing and transporting data. However, some characteristics of these small, convenient devices can also introduce security risks. Threat actors frequently use USBs to deliver malicious software, damage other hardware, or even take control of devices. USB baiting is an attack in which a threat actor strategically leaves a malware USB stick for an employee to find and install to unknowingly infect a network. It relies on curious people to plug in an unfamiliar flash drive that they find.
+
+**Scenario**
+
+Review the following scenario. Then complete the step-by-step instructions.
+
+You are part of the security team at Rhetorical Hospital and arrive to work one morning. On the ground of the parking lot, you find a USB stick with the hospital's logo printed on it. There’s no one else around who might have dropped it, so you decide to pick it up out of curiosity.
+
+You bring the USB drive back to your office where the team has virtualization software installed on a workstation. Virtualization software can be used for this very purpose because it’s one of the only ways to safely investigate an unfamiliar USB stick. The  software works by running a simulated instance of the computer on the same workstation. This simulation isn’t connected to other files or networks, so the USB drive can’t affect other systems if it happens to be infected with malicious software.
+
+**Link to template:** [Portfolio (Part-6) Parking lot USB exercise.pdf](https://github.com/user-attachments/files/17931095/Portfolio.Part-6.Parking.lot.USB.exercise.pdf)
+
+**Here is a completed activity.**
+
+**Link to template:** [Portfolio (Part-6) Parking lot USB.pdf](https://github.com/user-attachments/files/17931098/Portfolio.Part-6.Parking.lot.USB.pdf)
+
+# Activity #5: Apply the PASTA threat model framework
+
+**Activity Overview**
+
+In this activity, you will practice using the Process of Attack Simulation and Threat Analysis (PASTA) threat model framework. You will determine whether a new shopping app is safe to launch.
+
+Threat modeling is an important part of secure software development. Security teams typically perform threat models to identify vulnerabilities before malicious actors do. PASTA is a commonly used framework for assessing the risk profile of new applications.
+
+**Scenario**    
+
+Review the following scenario. Then complete the step-by-step instructions.
+
+You’re part of the growing security team at a company for sneaker enthusiasts and collectors. The business is preparing to launch a mobile app that makes it easy for their customers to buy and sell shoes. 
+
+You are performing a threat model of the application using the PASTA framework. You will go through each of the seven stages of the framework to identify security requirements for the new sneaker company app.
+
+**Link to template:** [PASTA worksheet.pdf](https://github.com/user-attachments/files/17931193/PASTA.worksheet.pdf)
+
+**Link to template:** [PASTA data flow diagram.pptx](https://github.com/user-attachments/files/17931196/PASTA.data.flow.diagram.pptx)
+
+**Link to template:** [PASTA attack tree.pptx](https://github.com/user-attachments/files/17931201/PASTA.attack.tree.pptx)
+
+**Here is a completed activity.**
+
+**Link to template:** [PASTA worksheet.pdf](https://github.com/user-attachments/files/17931202/PASTA.worksheet.pdf)
 
