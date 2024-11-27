@@ -25,17 +25,17 @@ You are a security professional at a large organization. You mainly work with th
 
 Your task is to examine existing permissions on the file system. You’ll need to determine if the permissions match the authorization that should be given. If they do not match, you’ll need to modify the permissions to authorize the appropriate users and remove any unauthorized access.
 
-**Provided Supporting Documents**
+* **Provided Supporting Documents**
 
-  * **Link to template:** [Portfolio (Part-1) File permissions in Linux.pdf](https://github.com/user-attachments/files/17929546/Portfolio.Part-1.File.permissions.in.Linux.pdf)
+    * **Link to template:** [Portfolio (Part-1) File permissions in Linux.pdf](https://github.com/user-attachments/files/17929546/Portfolio.Part-1.File.permissions.in.Linux.pdf)
 
-  * **Link to template:** [Portfolio (Part-1) Instructions for including.pdf](https://github.com/user-attachments/files/17929566/Portfolio.Part-1.Instructions.for.including.pdf)
+    * **Link to template:** [Portfolio (Part-1) Instructions for including.pdf](https://github.com/user-attachments/files/17929566/Portfolio.Part-1.Instructions.for.including.pdf)
 
-  * **Link to template:** [Portfolio (Part-1) Current file permissions.pdf](https://github.com/user-attachments/files/17929567/Portfolio.Part-1.Current.file.permissions.pdf)
+    * **Link to template:** [Portfolio (Part-1) Current file permissions.pdf](https://github.com/user-attachments/files/17929567/Portfolio.Part-1.Current.file.permissions.pdf)
 
-**Completed Activity: Use Linux commands to manage file permissions**
+* **Completed Activity: Use Linux commands to manage file permissions**
 
-  * **Link to template:** [Portfolio (Part-1) File permissions in Linux.pdf](https://github.com/user-attachments/files/17929634/Portfolio.Part-1.File.permissions.in.Linux.pdf)
+    * **Link to template:** [Portfolio (Part-1) File permissions in Linux.pdf](https://github.com/user-attachments/files/17929634/Portfolio.Part-1.File.permissions.in.Linux.pdf)
 
 # Portfolio Activity #2: Apply filters to SQL queries
 
@@ -53,14 +53,14 @@ You are a security professional at a large organization. Part of your job is to 
 
 Your task is to examine the organization’s data in their employees and log_in_attempts tables. You’ll need to use SQL filters to retrieve records from different datasets and investigate the potential security issues.
 
-**Provided Supporting Documents**
+* **Provided Supporting Documents**
 
-  * **Link to template:** [Portfolio (Part-2) Apply filters to SQL queries.pdf](https://github.com/user-attachments/files/17929718/Portfolio.Part-2.Apply.filters.to.SQL.queries.pdf)
+    * **Link to template:** [Portfolio (Part-2) Apply filters to SQL queries.pdf](https://github.com/user-attachments/files/17929718/Portfolio.Part-2.Apply.filters.to.SQL.queries.pdf)
 
-  * **Link to template:** [Portfolio (Part-2) Instructions for including SQL queries.pdf](https://github.com/user-attachments/files/17929901/Portfolio.Part-2.Instructions.for.including.SQL.queries.pdf)
+    * **Link to template:** [Portfolio (Part-2) Instructions for including SQL queries.pdf](https://github.com/user-attachments/files/17929901/Portfolio.Part-2.Instructions.for.including.SQL.queries.pdf)
 
-  * **Link to template:** [Portfolio (Part-2) Table formats.pdf](https://github.com/user-attachments/files/17929731/Portfolio.Part-2.Table.formats.pdf)
+    * **Link to template:** [Portfolio (Part-2) Table formats.pdf](https://github.com/user-attachments/files/17929731/Portfolio.Part-2.Table.formats.pdf)
 
-**Completed Activity: Use Linux commands to manage file permissions**
+* **Completed Activity: Use Linux commands to manage file permissions**
 
-  * **Link to template:** [Portfolio (Part-2) Apply filters to SQL queries exemplar.pdf](https://github.com/user-attachments/files/17929772/Portfolio.Part-2.Apply.filters.to.SQL.queries.exemplar.pdf)
+    * **Link to template:** [Portfolio (Part-2) Apply filters to SQL queries exemplar.pdf](https://github.com/user-attachments/files/17929772/Portfolio.Part-2.Apply.filters.to.SQL.queries.exemplar.pdf)
