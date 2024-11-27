@@ -43,7 +43,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
    * **Link to template:** [Portfolio (Part-1) Compliance Checklist Exemplar (Audit Evidence Documentation).pdf](https://github.com/user-attachments/files/17918756/Portfolio.Part-1.Compliance.Checklist.Exemplar.Audit.Evidence.Documentation.pdf)
 
-**Portfolio Activity #2: Conduct a security audit, Part 2**
+# Portfolio Activity #2: Conduct a security audit, Part 2
 
 **Scenario**
 
