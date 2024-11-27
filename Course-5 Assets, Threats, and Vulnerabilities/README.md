@@ -10,7 +10,7 @@ Additionally, I acquired a deep understanding of the vulnerability management pr
 
 # Activity #1: Score risks based on their likelihood and severity
 
-* **Activity Overview**
+**Activity Overview**
 
 In this activity, you will practice performing a risk assessment by evaluating vulnerabilities that commonly threaten business operations. Then, you will decide how to prioritize your resources based on the risk scores you assign each vulnerability.
 
@@ -18,7 +18,7 @@ You might recall that the purpose of having a security plan is to be prepared fo
 
 Be sure to complete this activity before moving on. The next course item will provide you with a completed exemplar to compare to your own work.
 
-* **Scenario**
+**Scenario**
 
 Review the following scenario. Then complete the step-by-step instructions.
 
@@ -28,11 +28,13 @@ A risk register is a central record of potential risks to an organization's asse
 
 Your supervisor asks you to evaluate a set of risks that the cybersecurity team has recorded in the risk register. For each risk, you will first determine how likely that risk is to occur. Then, you will determine how severely that risk may impact the bank. Finally, you will calculate a score for the severity of that risk. You will then compare scores across all risks so your team can determine how to prioritize their attention for each risk.
 
-**Link to template:** [Portfolio (Part-1) Risk register.pdf](https://github.com/user-attachments/files/17930429/Portfolio.Part-1.Risk.register.pdf)
+* **Provided Supporting Documents**
 
-**Here is a completed Activity: Score risks based on their likelihood and severity**
+    * **Link to template:** [Portfolio (Part-1) Risk register.pdf](https://github.com/user-attachments/files/17930429/Portfolio.Part-1.Risk.register.pdf)
 
-**Link to exemplar:** [Portfolio (Part-1) Risk register exemplar.pdf](https://github.com/user-attachments/files/17930522/Portfolio.Part-1.Risk.register.exemplar.pdf)
+* **Here is a completed Activity: Score risks based on their likelihood and severity**
+
+    * **Link to exemplar:** [Portfolio (Part-1) Risk register exemplar.pdf](https://github.com/user-attachments/files/17930522/Portfolio.Part-1.Risk.register.exemplar.pdf)
 
 # Activity #2: Classify the assets connected to a home network
 
@@ -67,11 +69,13 @@ To do this, you will start by identifying three devices that have access to your
 
 Then, you’ll list important characteristics of each device such as its owner, location, and type. Finally, you will assign each device a level of sensitivity based on how important it is to protect.
 
-* **Link to template:** [Portfolio (Part-2) Home asset inventory.xlsx](https://github.com/user-attachments/files/17930590/Portfolio.Part-2.Home.asset.inventory.xlsx)
+* **Provided Supporting Documents**
 
-**Here is a completed Activity: Classify the assets connected to a home network**  
+    * **Link to template:** [Portfolio (Part-2) Home asset inventory.xlsx](https://github.com/user-attachments/files/17930590/Portfolio.Part-2.Home.asset.inventory.xlsx)
 
-**Link to template:** [Portfolio (Part-2) Home asset inventory.xlsx](https://github.com/user-attachments/files/17930637/Portfolio.Part-2.Home.asset.inventory.xlsx)
+* **Here is a completed Activity: Classify the assets connected to a home network**  
+
+    * **Link to template:** [Portfolio (Part-2) Home asset inventory.xlsx](https://github.com/user-attachments/files/17930637/Portfolio.Part-2.Home.asset.inventory.xlsx)
 
 # Activity #3: Determine appropriate data handling practices
 
@@ -95,16 +99,13 @@ A supervisor provided you with information regarding the leak. It appears that t
 
 First, you'll need to evaluate details about the incident. Then, you'll review the controls in place to prevent data leaks. Next, you'll identify ways to improve information privacy at the company. Finally, you'll justify why you think your recommendations will make data handling at the company more secure.
 
-* **Step-By-Step Instructions**
+* **Provided Supporting Documents**
 
-* **Step 1: Access the template**
-To use the template for this course item, click the link and select Use Template
+    * **Link to template:** [Portfolio (Part-3) Activity Template Data.pdf](https://github.com/user-attachments/files/17930665/Portfolio.Part-3.Activity.Template.Data.pdf)
 
-**Link to template:** [Portfolio (Part-3) Activity Template Data.pdf](https://github.com/user-attachments/files/17930665/Portfolio.Part-3.Activity.Template.Data.pdf)
+* **Here is a completed Activity.** 
 
-**Here is a completed Activity.** 
-
-**Link to template:** [Portfolio (Part-3) Activity Exemplar Data leak.pdf](https://github.com/user-attachments/files/17930727/Portfolio.Part-3.Activity.Exemplar.Data.leak.pdf)
+    * **Link to template:** [Portfolio (Part-3) Activity Exemplar Data leak.pdf](https://github.com/user-attachments/files/17930727/Portfolio.Part-3.Activity.Exemplar.Data.leak.pdf)
 
 # Activity #3: Improve authentication, authorization, and accounting for a small business
 
@@ -126,13 +127,15 @@ Recently, a deposit was made from the business to an unknown bank account. The f
 
 To do this, you’ll need to do some accounting on the incident to better understand what happened. First, you will review the access log of the incident. Next, you will take notes that can help you identify a possible threat actor. Then, you will spot issues with the access controls that were exploited by the user. Finally, you will recommend mitigations that can improve the business' access controls and reduce the likelihood that this incident reoccurs.
 
-**Link to template:** [Portfolio (Part-4) Activity Template Access.pdf](https://github.com/user-attachments/files/17930779/Portfolio.Part-4.Activity.Template.Access.pdf)
+* **Provided Supporting Documents**
 
- **Link to template:** [Portfolio (Part-4) Accounting excercise.xlsx](https://github.com/user-attachments/files/17930786/Portfolio.Part-4.Accounting.excercise.xlsx)
+    * **Link to template:** [Portfolio (Part-4) Activity Template Access.pdf](https://github.com/user-attachments/files/17930779/Portfolio.Part-4.Activity.Template.Access.pdf)
 
-**Here is a completed activity.**
+    * **Link to template:** [Portfolio (Part-4) Accounting excercise.xlsx](https://github.com/user-attachments/files/17930786/Portfolio.Part-4.Accounting.excercise.xlsx)
 
-**Link to template:** [Portfolio (Part-4) Access control worksheet.pdf](https://github.com/user-attachments/files/17930826/Portfolio.Part-4.Access.control.worksheet.pdf)
+* **Here is a completed activity.**
+
+    * **Link to template:** [Portfolio (Part-4) Access control worksheet.pdf](https://github.com/user-attachments/files/17930826/Portfolio.Part-4.Access.control.worksheet.pdf)
 
 # Portfolio Activity #1: Analyze a vulnerable system for a small business
 
@@ -150,13 +153,15 @@ You are a newly hired cybersecurity analyst for an e-commerce company. The compa
 
 A vulnerability assessment of the situation can help you communicate the potential risks with decision makers at the company. You must create a written report that clearly explains how the vulnerable server is a risk to business operations and how it can be secured.
 
-**Link to template:** [Portfolio (Part-5) Vulnerability Assessment.pdf](https://github.com/user-attachments/files/17930934/Portfolio.Part-5.Vulnerability.Assessment.pdf)
+* **Provided Supporting Documents**
 
-**Link to template:** [NIST-SP-800-30.pdf](https://github.com/user-attachments/files/17930938/NIST-SP-800-30.pdf)
+    * **Link to template:** [Portfolio (Part-5) Vulnerability Assessment.pdf](https://github.com/user-attachments/files/17930934/Portfolio.Part-5.Vulnerability.Assessment.pdf)
 
-**Here is a completed activity: Analyze a vulnerable system for a small business**
+    * **Link to template:** [NIST-SP-800-30.pdf](https://github.com/user-attachments/files/17930938/NIST-SP-800-30.pdf)
 
-**Link to template:** [Portfolio (Part-5) Vulnerability assessment report ex.pdf](https://github.com/user-attachments/files/17930961/Portfolio.Part-5.Vulnerability.assessment.report.ex.pdf)
+* **Here is a completed activity: Analyze a vulnerable system for a small business**
+
+    * **Link to template:** [Portfolio (Part-5) Vulnerability assessment report ex.pdf](https://github.com/user-attachments/files/17930961/Portfolio.Part-5.Vulnerability.assessment.report.ex.pdf)
 
 # Activity #4: Identify the attack vectors of a USB drive
 
@@ -174,11 +179,13 @@ You are part of the security team at Rhetorical Hospital and arrive to work one 
 
 You bring the USB drive back to your office where the team has virtualization software installed on a workstation. Virtualization software can be used for this very purpose because it’s one of the only ways to safely investigate an unfamiliar USB stick. The  software works by running a simulated instance of the computer on the same workstation. This simulation isn’t connected to other files or networks, so the USB drive can’t affect other systems if it happens to be infected with malicious software.
 
-**Link to template:** [Portfolio (Part-6) Parking lot USB exercise.pdf](https://github.com/user-attachments/files/17931095/Portfolio.Part-6.Parking.lot.USB.exercise.pdf)
+* **Provided Supporting Documents**
 
-**Here is a completed activity: Identify the attack vectors of a USB drive**
+    * **Link to template:** [Portfolio (Part-6) Parking lot USB exercise.pdf](https://github.com/user-attachments/files/17931095/Portfolio.Part-6.Parking.lot.USB.exercise.pdf)
 
-**Link to template:** [Portfolio (Part-6) Parking lot USB.pdf](https://github.com/user-attachments/files/17931098/Portfolio.Part-6.Parking.lot.USB.pdf)
+* **Here is a completed activity: Identify the attack vectors of a USB drive**
+
+    * **Link to template:** [Portfolio (Part-6) Parking lot USB.pdf](https://github.com/user-attachments/files/17931098/Portfolio.Part-6.Parking.lot.USB.pdf)
 
 # Activity #5: Apply the PASTA threat model framework
 
@@ -196,13 +203,15 @@ You’re part of the growing security team at a company for sneaker enthusiasts 
 
 You are performing a threat model of the application using the PASTA framework. You will go through each of the seven stages of the framework to identify security requirements for the new sneaker company app.
 
-**Link to template:** [PASTA worksheet.pdf](https://github.com/user-attachments/files/17931193/PASTA.worksheet.pdf)
+* **Provided Supporting Documents**
 
-**Link to template:** [PASTA data flow diagram.pptx](https://github.com/user-attachments/files/17931196/PASTA.data.flow.diagram.pptx)
+    * **Link to template:** [PASTA worksheet.pdf](https://github.com/user-attachments/files/17931193/PASTA.worksheet.pdf)
 
-**Link to template:** [PASTA attack tree.pptx](https://github.com/user-attachments/files/17931201/PASTA.attack.tree.pptx)
+    * **Link to template:** [PASTA data flow diagram.pptx](https://github.com/user-attachments/files/17931196/PASTA.data.flow.diagram.pptx)
 
-**Here is a completed activity: Apply the PASTA threat model framework**
+    * **Link to template:** [PASTA attack tree.pptx](https://github.com/user-attachments/files/17931201/PASTA.attack.tree.pptx)
 
-**Link to template:** [PASTA worksheet.pdf](https://github.com/user-attachments/files/17931202/PASTA.worksheet.pdf)
+* **Here is a completed activity: Apply the PASTA threat model framework**
+
+    * **Link to template:** [PASTA worksheet.pdf](https://github.com/user-attachments/files/17931202/PASTA.worksheet.pdf)
 
