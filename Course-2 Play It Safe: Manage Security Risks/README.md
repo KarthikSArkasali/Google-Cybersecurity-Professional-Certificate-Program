@@ -33,12 +33,14 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 **Link to template:** [Portfolio (Part-1) Botium Toys Scope Goals and Risk Assessment Report (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918781/Portfolio.Part-1.Botium.Toys.Scope.Goals.and.Risk.Assessment.Report.Provided.Supporting.Documents.pdf)
 
 **Link to template:** [Portfolio (Part-1) Control Categories (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918783/Portfolio.Part-1.Control.Categories.Provided.Supporting.Documents.pdf)
+
 **Link to template:** [Portfolio (Part-1) Controls and compliance checklist (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918784/Portfolio.Part-1.Controls.and.compliance.checklist.Provided.Supporting.Documents.pdf)
 
 
 **Audit Evidence Documentation**
 
 **Link to template:** [Portfolio (Part-1) Controls Assessment Exemplar (Audit Evidence Documentation).pdf](https://github.com/user-attachments/files/17918755/Portfolio.Part-1.Controls.Assessment.Exemplar.Audit.Evidence.Documentation.pdf)
+
 **Link to template:** [Portfolio (Part-1) Compliance Checklist Exemplar (Audit Evidence Documentation).pdf](https://github.com/user-attachments/files/17918756/Portfolio.Part-1.Compliance.Checklist.Exemplar.Audit.Evidence.Documentation.pdf)
 
 **Part-2**
