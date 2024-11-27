@@ -6,7 +6,6 @@ Additionally, I have explored the **Open Web Application Security Project (OWASP
 
 I have also developed proficiency in the purposes and applications of **playbooks**, leveraging them to effectively respond to **identified threats**, **risks**, and **vulnerabilities**, demonstrating my capability in enhancing organizational security posture.
 
-
 ![Coursera PDUGL4X2LY25 (All in one)_page-0001](https://github.com/user-attachments/assets/e71d5c3e-82bf-45f4-9b4a-2acfe7c5f79d)
 
 # Portfolio Activity: Conduct a security audit
@@ -31,15 +30,16 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 **Provided Supporting Documents**
 
-* [Portfolio (Part-1) Botium Toys Scope Goals and Risk Assessment Report (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918781/Portfolio.Part-1.Botium.Toys.Scope.Goals.and.Risk.Assessment.Report.Provided.Supporting.Documents.pdf)
-* [Portfolio (Part-1) Control Categories (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918783/Portfolio.Part-1.Control.Categories.Provided.Supporting.Documents.pdf)
-* [Portfolio (Part-1) Controls and compliance checklist (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918784/Portfolio.Part-1.Controls.and.compliance.checklist.Provided.Supporting.Documents.pdf)
+**Link to template:** [Portfolio (Part-1) Botium Toys Scope Goals and Risk Assessment Report (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918781/Portfolio.Part-1.Botium.Toys.Scope.Goals.and.Risk.Assessment.Report.Provided.Supporting.Documents.pdf)
+
+**Link to template:** [Portfolio (Part-1) Control Categories (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918783/Portfolio.Part-1.Control.Categories.Provided.Supporting.Documents.pdf)
+**Link to template:** [Portfolio (Part-1) Controls and compliance checklist (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918784/Portfolio.Part-1.Controls.and.compliance.checklist.Provided.Supporting.Documents.pdf)
 
 
 **Audit Evidence Documentation**
 
-* [Portfolio (Part-1) Controls Assessment Exemplar (Audit Evidence Documentation).pdf](https://github.com/user-attachments/files/17918755/Portfolio.Part-1.Controls.Assessment.Exemplar.Audit.Evidence.Documentation.pdf)
-* [Portfolio (Part-1) Compliance Checklist Exemplar (Audit Evidence Documentation).pdf](https://github.com/user-attachments/files/17918756/Portfolio.Part-1.Compliance.Checklist.Exemplar.Audit.Evidence.Documentation.pdf)
+**Link to template:** [Portfolio (Part-1) Controls Assessment Exemplar (Audit Evidence Documentation).pdf](https://github.com/user-attachments/files/17918755/Portfolio.Part-1.Controls.Assessment.Exemplar.Audit.Evidence.Documentation.pdf)
+**Link to template:** [Portfolio (Part-1) Compliance Checklist Exemplar (Audit Evidence Documentation).pdf](https://github.com/user-attachments/files/17918756/Portfolio.Part-1.Compliance.Checklist.Exemplar.Audit.Evidence.Documentation.pdf)
 
 **Part-2**
 
@@ -53,11 +53,11 @@ Your task is to clearly and concisely communicate your findings and recommendati
 
 **Provided Supporting Documents**
 
-* [Portfolio (Part-2) Botium Toys Audit scope and goals (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918788/Portfolio.Part-2.Botium.Toys.Audit.scope.and.goals.Provided.Supporting.Documents.pdf)
-* [Portfolio (Part-2) Stakeholder memorandum (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918789/Portfolio.Part-2.Stakeholder.memorandum.Provided.Supporting.Documents.pdf)
+**Link to template:** [Portfolio (Part-2) Botium Toys Audit scope and goals (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918788/Portfolio.Part-2.Botium.Toys.Audit.scope.and.goals.Provided.Supporting.Documents.pdf)
+**Link to template:** [Portfolio (Part-2) Stakeholder memorandum (Provided Supporting Documents).pdf](https://github.com/user-attachments/files/17918789/Portfolio.Part-2.Stakeholder.memorandum.Provided.Supporting.Documents.pdf)
 
 
 **Audit Evidence Documentation**
 
-* [Portfolio (Part-2) Stakeholder memorandum exemplar (Audit Evidence Documentation).pdf](https://github.com/user-attachments/files/17918742/Portfolio.Part-2.Stakeholder.memorandum.exemplar.Audit.Evidence.Documentation.pdf)
+**Link to template:** [Portfolio (Part-2) Stakeholder memorandum exemplar (Audit Evidence Documentation).pdf](https://github.com/user-attachments/files/17918742/Portfolio.Part-2.Stakeholder.memorandum.exemplar.Audit.Evidence.Documentation.pdf)
 
